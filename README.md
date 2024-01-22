@@ -13,8 +13,6 @@
 
 ![jeongan-choi's github stats](https://github-readme-stats.vercel.app/api?username=jeongan-choi&show_icons=true)
 [![jeongan-choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongan-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&langs_count=10)](https://github.com/jeongan-choi/jeongan-choi)
-[![jeongan-choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongan-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&langs_count=20&hide_progress=true)](https://github.com/jeongan-choi/jeongan-choi)
-
 
 ### Contacts 📫
 
